@@ -4,7 +4,7 @@ Although linear regression is not as flashy as neural network based ML applicati
 
 ### Instructions: 
 
-1. Create a repository under your GitHub account from this template: https://github.com/amarbut/aai-iot-linear-regression. Instructions can be found [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template). Make your repository public or add your instructor’s Github account as a [collaborator](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository). 
+1. Create a repository under your GitHub account from this template: https://github.com/amarbut/aai-iot-linear-regression. Instructions can be found [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template). Make your repository [private](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) and add your instructor’s Github account as a [collaborator](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository). 
 
 2. Following the instructions in the jupyter notebook from the above Github template, build several linear regression models to predict Global Active Power on simulated streaming data.
 
